@@ -1,8 +1,7 @@
-# 🌻 Real-Time DevSecOps Pipeline for a DotNet Web App 🌻
+#  Real-Time DevSecOps Pipeline for a DotNet Web App 
 
-## Below is the Application Source code for this project
 
-[![DevOps-Project-24: DotNet Monitoring](https://img.shields.io/badge/Project-DotNet%20Monitoring-brightgreen)](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-24/DotNet-monitoring)
+[![DotNet Monitoring](https://img.shields.io/badge/Project-DotNet%20Monitoring-brightgreen)](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-24/DotNet-monitoring)
 
 ![](<https://miro.medium.com/v2/resize:fit:700/0*lhbz9vRWnbRl4xVS>)
 
@@ -604,13 +603,3 @@ pipeline{
         }
     }
 }
-```
-
----
-
-### Author by
-
-![](https://imgur.com/2j6Aoyl.png)
-
-> [!Note]
-> Join Our [Telegram Community](https://t.me/prodevopsguy) || [Follow me](https://github.com/NotHarshhaa) for more DevOps Content
